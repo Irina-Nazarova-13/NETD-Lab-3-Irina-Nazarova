@@ -1,0 +1,30 @@
+C:\Users\nazar\Desktop\Lab 3 The Beginning\Lab 3 The Beginning\bin\Debug\netcoreapp3.1\Lab 3 The Beginning.exe
+C:\Users\nazar\Desktop\Lab 3 The Beginning\Lab 3 The Beginning\bin\Debug\netcoreapp3.1\Lab 3 The Beginning.deps.json
+C:\Users\nazar\Desktop\Lab 3 The Beginning\Lab 3 The Beginning\bin\Debug\netcoreapp3.1\Lab 3 The Beginning.runtimeconfig.json
+C:\Users\nazar\Desktop\Lab 3 The Beginning\Lab 3 The Beginning\bin\Debug\netcoreapp3.1\Lab 3 The Beginning.runtimeconfig.dev.json
+C:\Users\nazar\Desktop\Lab 3 The Beginning\Lab 3 The Beginning\bin\Debug\netcoreapp3.1\Lab 3 The Beginning.dll
+C:\Users\nazar\Desktop\Lab 3 The Beginning\Lab 3 The Beginning\bin\Debug\netcoreapp3.1\Lab 3 The Beginning.pdb
+C:\Users\nazar\Desktop\Lab 3 The Beginning\Lab 3 The Beginning\obj\Debug\netcoreapp3.1\Lab 3 The Beginning.csprojAssemblyReference.cache
+C:\Users\nazar\Desktop\Lab 3 The Beginning\Lab 3 The Beginning\obj\Debug\netcoreapp3.1\Lab_3_The_Beginning.formUnitsShipped.resources
+C:\Users\nazar\Desktop\Lab 3 The Beginning\Lab 3 The Beginning\obj\Debug\netcoreapp3.1\Lab 3 The Beginning.csproj.GenerateResource.cache
+C:\Users\nazar\Desktop\Lab 3 The Beginning\Lab 3 The Beginning\obj\Debug\netcoreapp3.1\Lab 3 The Beginning.AssemblyInfoInputs.cache
+C:\Users\nazar\Desktop\Lab 3 The Beginning\Lab 3 The Beginning\obj\Debug\netcoreapp3.1\Lab 3 The Beginning.AssemblyInfo.cs
+C:\Users\nazar\Desktop\Lab 3 The Beginning\Lab 3 The Beginning\obj\Debug\netcoreapp3.1\Lab 3 The Beginning.csproj.CoreCompileInputs.cache
+C:\Users\nazar\Desktop\Lab 3 The Beginning\Lab 3 The Beginning\obj\Debug\netcoreapp3.1\Lab 3 The Beginning.dll
+C:\Users\nazar\Desktop\Lab 3 The Beginning\Lab 3 The Beginning\obj\Debug\netcoreapp3.1\Lab 3 The Beginning.pdb
+C:\Users\nazar\Desktop\Lab 3 The Beginning\Lab 3 The Beginning\obj\Debug\netcoreapp3.1\Lab 3 The Beginning.genruntimeconfig.cache
+C:\Users\nazar\Desktop\Lab 3 Irina\Lab 3 The Beginning\bin\Debug\netcoreapp3.1\Lab 3 The Beginning.exe
+C:\Users\nazar\Desktop\Lab 3 Irina\Lab 3 The Beginning\bin\Debug\netcoreapp3.1\Lab 3 The Beginning.deps.json
+C:\Users\nazar\Desktop\Lab 3 Irina\Lab 3 The Beginning\bin\Debug\netcoreapp3.1\Lab 3 The Beginning.runtimeconfig.json
+C:\Users\nazar\Desktop\Lab 3 Irina\Lab 3 The Beginning\bin\Debug\netcoreapp3.1\Lab 3 The Beginning.runtimeconfig.dev.json
+C:\Users\nazar\Desktop\Lab 3 Irina\Lab 3 The Beginning\bin\Debug\netcoreapp3.1\Lab 3 The Beginning.dll
+C:\Users\nazar\Desktop\Lab 3 Irina\Lab 3 The Beginning\bin\Debug\netcoreapp3.1\Lab 3 The Beginning.pdb
+C:\Users\nazar\Desktop\Lab 3 Irina\Lab 3 The Beginning\obj\Debug\netcoreapp3.1\Lab 3 The Beginning.csprojAssemblyReference.cache
+C:\Users\nazar\Desktop\Lab 3 Irina\Lab 3 The Beginning\obj\Debug\netcoreapp3.1\Lab_3_The_Beginning.formUnitsShipped.resources
+C:\Users\nazar\Desktop\Lab 3 Irina\Lab 3 The Beginning\obj\Debug\netcoreapp3.1\Lab 3 The Beginning.csproj.GenerateResource.cache
+C:\Users\nazar\Desktop\Lab 3 Irina\Lab 3 The Beginning\obj\Debug\netcoreapp3.1\Lab 3 The Beginning.AssemblyInfoInputs.cache
+C:\Users\nazar\Desktop\Lab 3 Irina\Lab 3 The Beginning\obj\Debug\netcoreapp3.1\Lab 3 The Beginning.AssemblyInfo.cs
+C:\Users\nazar\Desktop\Lab 3 Irina\Lab 3 The Beginning\obj\Debug\netcoreapp3.1\Lab 3 The Beginning.csproj.CoreCompileInputs.cache
+C:\Users\nazar\Desktop\Lab 3 Irina\Lab 3 The Beginning\obj\Debug\netcoreapp3.1\Lab 3 The Beginning.dll
+C:\Users\nazar\Desktop\Lab 3 Irina\Lab 3 The Beginning\obj\Debug\netcoreapp3.1\Lab 3 The Beginning.pdb
+C:\Users\nazar\Desktop\Lab 3 Irina\Lab 3 The Beginning\obj\Debug\netcoreapp3.1\Lab 3 The Beginning.genruntimeconfig.cache
